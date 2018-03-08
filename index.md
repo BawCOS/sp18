@@ -165,7 +165,7 @@ While we are working to make this class widely accessible we currently require t
          alt="Manana Hakobyan" />
     <address>
       <strong>Manana Hakobyan</strong><br>
-      <a href="mailto:manana.hakyoban@berkeley.edu">manana.hakyoban@berkeley.edu</a>
+      <a href="mailto:manana.hakobyan@berkeley.edu">manana.hakobyan@berkeley.edu</a>
     </address>
   </div>
 
