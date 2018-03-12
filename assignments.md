@@ -19,11 +19,11 @@ description: "Homework, Projects, Vitamins, Labs, Discussions"
 
 [Homework 4: SQL, FEC Data, and Small Donors](https://github.com/DS-100/sp18/raw/master/zipfiles/hw4.zip)
 
-[Homework 3: EDA of Bike Sharing](https://github.com/DS-100/sp18/raw/master/zipfiles/hw3.zip) 
+[Homework 3: EDA of Bike Sharing](https://github.com/DS-100/sp18/raw/master/zipfiles/hw3.zip)
 
-[Homework 2: Food Safety Data Cleaning and EDA](https://github.com/DS-100/sp18/raw/master/zipfiles/hw2.zip) 
+[Homework 2: Food Safety Data Cleaning and EDA](https://github.com/DS-100/sp18/raw/master/zipfiles/hw2.zip)
 
-[Homework 1: Setup, Prerequisites, and Image Classification](https://github.com/DS-100/sp18/raw/master/zipfiles/hw1.zip) 
+[Homework 1: Setup, Prerequisites, and Image Classification](https://github.com/DS-100/sp18/raw/master/zipfiles/hw1.zip)
 
 ## Projects
 
@@ -33,21 +33,22 @@ description: "Homework, Projects, Vitamins, Labs, Discussions"
 
 [Vitamin 5](https://goo.gl/forms/WJFLW8GGrGXSmfHo1)
 
-[Vitamin 4](https://goo.gl/forms/Pb7iIdPBgGBUzvgx2)  
+[Vitamin 4](https://goo.gl/forms/Pb7iIdPBgGBUzvgx2)
 
-[Vitamin 3](https://goo.gl/forms/8iZGvuq9phTY9lFH3) 
+[Vitamin 3](https://goo.gl/forms/8iZGvuq9phTY9lFH3)
 
 [Vitamin 2](https://goo.gl/forms/jeh0jMEVNi9Wafdo1)
 
 [Vitamin 1](https://goo.gl/forms/ps7OJXLi6Tiv38eB3)
 
 ## Labs
+[Lab 8: Modeling and Estimation](https://github.com/DS-100/sp18/raw/master/zipfiles/lab08.zip)
 
 [Lab 6: Regular Expressions, SQL](https://github.com/DS-100/sp18/raw/master/zipfiles/lab06.zip)
 
-[Lab 4: Plotting, Smoothing, Transformation](https://github.com/DS-100/sp18/raw/master/zipfiles/lab04.zip) 
+[Lab 4: Plotting, Smoothing, Transformation](https://github.com/DS-100/sp18/raw/master/zipfiles/lab04.zip)
 
-[Lab 3: Plotting](https://github.com/DS-100/sp18/raw/master/zipfiles/lab03.zip) 
+[Lab 3: Plotting](https://github.com/DS-100/sp18/raw/master/zipfiles/lab03.zip)
 
 [Lab 2: Pandas Overview](https://github.com/DS-100/sp18/raw/master/zipfiles/lab02.zip)
 
@@ -84,9 +85,9 @@ description: "Homework, Projects, Vitamins, Labs, Discussions"
 
 2.  Go to “Assignments” tab, fetch the assignment (for example, lab01)
 
-3.  Go to “Files” tab, start working on the assignment. 
+3.  Go to “Files” tab, start working on the assignment.
 
-4.  After you are done, be sure to click 'validate' and save. 
+4.  After you are done, be sure to click 'validate' and save.
 
 5.  Go to “Assignments” tab.
 

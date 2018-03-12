@@ -1,5 +1,8 @@
 # This file contains the course announcements in reverse chronological order.
 # Note that only the most recent (topmost) announcement is rendered.
+- date: 3/12/2018
+  text: |
+    - [Lab 6](https://github.com/DS-100/sp18/raw/master/zipfiles/lab08.zip) released. It is due Monday, Mar 12th at 11:59PM.
 - date: 3/1/2018
   text: |
     - The Midterm is in class Thursday, Mar 8th from 11:00 to 12:30PM in 150 Wheeler.
@@ -47,4 +50,4 @@
     - Class begins!
     - Sign-up for [lab and section times](https://goo.gl/forms/zulZXeFLR1hhu1mh2).
     - Sign-up for [Piazza](https://piazza.com/berkeley/spring2018/data100).
-    
+
