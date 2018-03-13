@@ -580,7 +580,13 @@
     So far we have focused how to estimate a descriptive statistic or more generally the parameters of a model that reflects our data.  What does this say about the population?  How can we generalize beyond what we observe?  In this lecture we recast our loss minimization approach in the context of empirical risk minimization.  In the process we will review basic proability concepts including expectations, bias, and variance.
   assignment : |
     [Lab 8 Released: Modeling and Estimation](https://github.com/DS-100/sp18/raw/master/zipfiles/lab08.zip)
-
+  links:
+    - name: PPTX
+      url: assets/lectures/lec16/16-probability_V3.pptx
+    - name: PDF
+      url: assets/lectures/lec16/16-probability_V3.pdf 
+    - name: Handout
+      url: assets/lectures/lec16/16-probability_V3-handout.pdf
   # links:
   # - name: pptx
   #   url: https://drive.google.com/open?id=1EWx34t0Aq1FEu-_mpJN22QQGISWo4Noa
