@@ -21,10 +21,14 @@ description: "Labs and Discussion Notebooks"
 
 [Lab 3: Plotting](https://github.com/DS-100/sp18/raw/master/zipfiles/lab03.zip)
 
+[Lab 4: Plotting, Smoothing, Transformation](https://github.com/DS-100/sp18/raw/master/zipfiles/lab04.zip)
+
 ## Discussions
 [Discussion 1: Probability and Sampling](assets/discussions/disc01.pdf) ([Solutions](assets/discussions/disc01-sol.pdf))
 
 [Discussion 2: Bayes' Rule and Data Visualization & Scope](assets/discussions/disc02.pdf) ([Solutions](assets/discussions/disc02-sol.pdf))
+
+[Discussion 3: Data Visualization and Log Transformations](assets/discussions/disc03.pdf)
 
 <!-- 
 ## Labs

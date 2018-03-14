@@ -6,7 +6,9 @@
   url: setup
 - name: Grading
   url: grading
+- name: Assignments
+  url: assignments
 - name: Materials
-  url: materials
+  url: materials_table
 - name: Resources
   url: resources

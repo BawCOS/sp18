@@ -30,7 +30,7 @@
     In this lecture we provide an overview of what it means to be a data scientist by examining recent surveys of data scientists.  By exploring the names of students in the class we will review some basic python tools for data manipulation as well as some of the mathematical concepts that will be required in DS100.
   textbook:
     - chapter: Chapter 1
-      url: https://ds100.gitbooks.io/textbook/content/v/v1/ch1/the_data_science_lifecycle.html
+      url: https://www.textbook.ds100.org/ch01/the_data_science_lifecycle.html
   links:
     - name: pptx
       url: assets/lectures/lec01/01-intro-to-data100_v2.pptx
@@ -59,7 +59,7 @@
     Fundamentally, (data) science is the study of using data to learn about the world and solve problems.  However, how and what data is collected can have a profound impact on what we can learn and the problems we can solve. In this lecture, we will begin to explore various mechanisms for data collection and their implications on our ability to generalize.  In particular we will discuss differences between census, surveys, controlled experiments, and observational studies. We will highlight the power of simple randomization and the fallacies of data scale.
   textbook:
     - chapter: Chapter 2
-      url: https://ds100.gitbooks.io/textbook/content/v/v1/ch2/data_generation.html
+      url: https://www.textbook.ds100.org/ch02/data_generation.html
 
   links:
      - name: pptx
@@ -80,7 +80,7 @@
     While data comes in many forms, most data analysis are done on tabular data. Mastering the skills of constructing, cleaning, joining, aggregating, and manipulating tabular data is essential to data science. In this lecture, we will introduce Pandas, the open-source Python data manipulation library widely used by data scientists. In addition to introducing new syntax, we will introduce new concepts including indexes, the role of column operations on system performance, and basic tools to begin visualizing data.
   textbook:
     - chapter: Chapter 3
-      url: https://ds100.gitbooks.io/textbook/content/v/v1/ch3/tabular_data.html
+      url: https://www.textbook.ds100.org/ch03/tabular_data.html
   links:
      - name: pptx
        url: assets/lectures/lec03/03-datatables-indexes-pandas.pptx
@@ -95,7 +95,8 @@
      - name: screencast
        url: https://www.youtube.com/watch?v=hEqNyjEHYYs
   assignment: |
-    [Lab 1 Released: Setup and Notebook](https://github.com/DS-100/sp18/raw/master/zipfiles/lab01.zip)  
+    [Lab 1 Released: Setup and Notebook](https://github.com/DS-100/sp18/raw/master/zipfiles/lab01.zip)
+
     [Homework 1 Released: Setup, Prerequisites, and Image Classification](https://github.com/DS-100/sp18/raw/master/zipfiles/hw1.zip)
 
 
@@ -106,7 +107,7 @@
     Continuation of the previous lecture - detailed discussion of the structure of a Pandas DataFrame and various access and grouping operations. Notebooks and slides from the previous lecture remain relevant.
   textbook:
     - chapter: Chapter 3
-      url: https://ds100.gitbooks.io/textbook/content/v/v1/ch3/tabular_data.html
+      url: https://www.textbook.ds100.org/ch03/tabular_data.html
   links:
      - name: group/pivot pptx
        url: assets/lectures/lec03/03-groupby_and_pivot.pptx
@@ -116,10 +117,10 @@
        url: assets/lectures/lec03/03-groupby-notes.ipynb
      - name: groupby notebook (html version)
        url: assets/lectures/lec03/03-groupby-notes.html
-     - name: screencast (last year)
-       url: https://www.youtube.com/watch?v=CP63L2mKPko
+     - name: screencast
+       url: https://www.youtube.com/watch?v=isMWogw-3RA
   assignment: |
-    [Vitamin 01 Released](https://goo.gl/forms/ps7OJXLi6Tiv38eB3)
+    [Vitamin 1 Released](https://goo.gl/forms/ps7OJXLi6Tiv38eB3)
 
 
 - date: 1/30/2018
@@ -127,6 +128,9 @@
   lecturer: Gonzalez
   description: |
     Whether collected by you or obtained from someone else, raw data is seldom ready for immediate analysis.  Through exploratory data analysis we can often discover important anomalies, identify limitations in the collection process, and better inform subsequent goal oriented analysis. In this lecture we will discuss how to identify and correct common data anomalies and their implications on future analysis.   We will also discuss key properties of data including structure, granularity, faithfulness, temporality, and scope and how these properties can inform how we prepare, analyze, and visualize data.
+  textbook:
+    - chapter: Chapter 4
+      url: https://www.textbook.ds100.org/ch04/data_cleaning.html
   links:
     - name: pptx
       url: assets/lectures/lec05/05-EDA-and-Cleaning_v3.pptx
@@ -140,11 +144,14 @@
       url: assets/lectures/lec05/groupby_pivot_and_merge.html
     - name: Python utilities
       url: assets/lectures/lec05/utils.py
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=219
     - name: screencast
       url: https://www.youtube.com/watch?v=-mOqumUU9sM
 
   assignment: |
-    [Lab 2 Released: Pandas Overview](https://github.com/DS-100/sp18/raw/master/zipfiles/lab02.zip)  
+    [Lab 2 Released: Pandas Overview](https://github.com/DS-100/sp18/raw/master/zipfiles/lab02.zip)
+
     [Homework 2 Released: Food Safety Data Cleaning and EDA](https://github.com/DS-100/sp18/raw/master/zipfiles/hw2.zip)
 
 
@@ -153,7 +160,9 @@
   lecturer: Gonzalez and Perez
   description: |
     In this lecture we will continue our discussion EDA and start to work through a real-world exercise in EDA using public crime data for the city of Berkeley. We will also begin to introduce tools for data visualization using Pandas, Seaborn, and Matplotlib.
-
+  textbook:
+    - chapter: Chapter 5
+      url: https://www.textbook.ds100.org/ch05/eda.html
   links:
     - name: pptx
       url: assets/lectures/lec06/06-EDA-Continued.pptx
@@ -169,10 +178,13 @@
       url: assets/lectures/lec06/EDA_and_Cleaning.ipynb
     - name: EDA and Data Cleaning Notebook (HTML Version)
       url: assets/lectures/lec06/EDA_and_Cleaning.html
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=254
     - name: screencast
       url: https://www.youtube.com/watch?v=tpsso5AeghM
-    - name: Vitamin 02
-      url: https://goo.gl/forms/jeh0jMEVNi9Wafdo1
+
+  assignment: |
+    [Vitamin 2 Released](https://goo.gl/forms/jeh0jMEVNi9Wafdo1)
 
   # links:
 
@@ -205,14 +217,28 @@
   lecturer: Perez
   description: |
     A large fraction of the human brain is devoted to visual perception.  As a consequence, visualization is a critical tool in both exploratory data analysis and communicating complex relationships in data. However, making informative and clear visualizations of complex concepts can be challenging.  In this lecture, we explore good and bad visualizations and describe how to choose visualizations for various kinds of data and goals.  Directly visualizing data can result in less informative for several reaasons: plots as curvilinear relationships can be difficult to assess; large numbers of observations can hide core features; and it can be difficult to visualize large  numbers of variables. In this lecture, we discuss techniques of data transformations, smoothing, and dimensionality reduction to address challenges in creating informative visualization. With these  additional analytics we can often reveal important and informative patterns in data.  We pick up with transformations.
+  textbook:
+    - chapter: Chapter 6
+      url: https://www.textbook.ds100.org/ch06/visualization.html
+  assignment: |
+    [Lab 3 Released: Plotting](https://github.com/DS-100/sp18/raw/master/zipfiles/lab03.zip)
 
+    [Homework 3 Released: EDA of Bike Sharing](https://github.com/DS-100/sp18/raw/master/zipfiles/hw3.zip)
 
-  # assignment: |
   #   [Lab 3 Released: Data cleaning and seaborn](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/lab03.zip)
-
   #   [Homework 3 Released: Bike Sharing and Multivariate Visualization](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/hw3.zip)
 
-  # links:
+  links:
+    - name: intro matplotlib notebook (HTML Version)
+      url: assets/lectures/lec07/07-intro-matplotlib.html
+    - name: advanced matplotlib notebook (HTML Version)
+      url: assets/lectures/lec07/07-matplotlib_beyond_basics.html
+    - name: code
+      url: assets/lectures/lec07/code.zip
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=319
+    - name: screencast
+      url: https://www.youtube.com/watch?v=zM-3fezJUms
   #   - name: pptx
   #     url: https://drive.google.com/open?id=0B7gkaDYGT5X5ZGNoenU3enR5TW8
   #   - name: pdf
@@ -240,10 +266,111 @@
 
 
 - date: 2/8/2018
-  topic: Working with Text
+  topic: Visualization and Data Tranformations (continued)
+  lecturer: Perez
+  description: |
+    We will finalize our discussion of data visualization principles and techniques.
+  textbook:
+    - chapter: Chapter 6
+      url: https://www.textbook.ds100.org/ch06/visualization.html
+  links:
+    - name: 08-visualization (PPTX)
+      url: assets/lectures/lec08/08-visualization.pptx
+    - name: 08-figures notebook
+      url: assets/lectures/lec08/08-figures.ipynb
+    - name: 08-figures notebook (HTML Version)
+      url: assets/lectures/lec08/08-figures.html
+    - name: 08-matplotlib-beyond-basics notebook
+      url: assets/lectures/lec08/08-matplotlib-beyond-basics.ipynb
+    - name: 08-matplotlib-beyond-basics notebook (HTML Version)
+      url: assets/lectures/lec08/08-matplotlib-beyond-basics.html
+    - name: 08-matplotlib-common-plots notebook
+      url: assets/lectures/lec08/08-matplotlib-common-plots.ipynb
+    - name: 08-matplotlib-common-plots notebook (HTML Version)
+      url: assets/lectures/lec08/08-matplotlib-common-plots.html
+    - name: data
+      url: assets/lectures/lec08/data.zip
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=355
+    - name: screencast
+      url: https://www.youtube.com/watch?v=mLXI4u2JXSA
+
+  assignment: |
+    [Vitamin 3 Released](https://goo.gl/forms/8iZGvuq9phTY9lFH3)
+
+
+
+- date: 2/13/2018
+  topic: Web Technologies
   lecturer: Gonzalez
   description: |
+    Data are available on the Internet - they can be embedded in web pages, provided after a form submission, and accessible through a REST API. We can access data from these various sources using HTTP - the HyperText Transfer Protocol. We will cover HTTP at a high level, and provide examples of how to use it to access web pages, submit forms, and crate REST requests.
+  links:
+    - name: PPTX
+      url: assets/lectures/lec09/09-Web-Technologies_v4.pptx
+    - name: PDF
+      url: assets/lectures/lec09/09-Web-Technologies_v4.pdf
+    - name: Handout
+      url: assets/lectures/lec09/09-Web-Technologies_v4-handout.pdf
+    - name: All Code (zip)
+      url: assets/lectures/lec09/code.zip
+    - name: Kernel Smoothing
+      url: assets/lectures/lec09/kernel_smoothing.html
+    - name: Pandas and HTML
+      url: assets/lectures/lec09/pandas_read_html.html
+    - name: Working with JSON
+      url: assets/lectures/lec09/working_with_json.html
+    - name: Web Requests
+      url: assets/lectures/lec09/basic_http_requests.html
+    - name: Calling Twitter REST APIs
+      url: assets/lectures/lec09/TwitterAPI_REST_Example.html
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=388
+    - name: screencast
+      url: https://www.youtube.com/watch?v=IRwxbEpD2qU
+  assignment: |
+    [Lab 4 Released: Plotting, Smoothing, Transformation](https://github.com/DS-100/sp18/raw/master/zipfiles/lab04.zip)
+
+    [Project 1 Released: Twitter Analysis](https://github.com/DS-100/sp18/raw/master/zipfiles/proj1.zip)
+
+  # Furthermore, when the data are embedded in an HTML document, we can use XPath to locate and extract it. XPath is a powerful tool developed for locating elements and content in an XML document (much better than regular expressions!). We cover the basics of XPath, which is enough to write complex expressions.
+
+  # links:
+  # - name: pptx
+  #   url: https://drive.google.com/open?id=1PdKLUoXSfAr_SvqHC9L1OO-LVxjeq2Qc
+  # - name: pdf
+  #   url: https://drive.google.com/open?id=1274pH3aG79GWoct2aYi4fkFDdZqvdCb0
+  # - name: handout
+  #   url: https://drive.google.com/open?id=1nnnistmtM3EQ08865SIp4ezcBzE0SXio
+  # - name: screencast
+  #   url: https://www.youtube.com/watch?v=EHo0Y6S1vIk
+  # assignment: |
+  #   [Lab 12 Released: TensorFlow & Logistic/Softmax Regression](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/lab12.zip)
+
+- date: 2/15/2018
+  topic: Working with Text
+  lecturer: Sam Lau (Guest Lecturer)
+  description: |
     Whether in documents, tweets, or records in a table, text data is ubiquitous and presents a unique set of challenges for data scientists.  How do you extract key phrases from text?  What are meaningful aggregate summaries of text?  How do you visualize textual data?  In this lecture we will introduce a set of techniques (e.g., bag-of-words) to transform text into numerical data and subsequent tabular analysis.  We will also introduce regular expressions as a mechanism for cleaning and transforming text data data.
+  links:
+    - name: keynote
+      url: assets/lectures/lec10/lec10.key
+    - name: pdf
+      url: assets/lectures/lec10/lec10.pdf
+    - name: handout
+      url: assets/lectures/lec10/lec10_handout.pdf
+    - name: notebook (ipynb)
+      url: assets/lectures/lec10/lec10.ipynb
+    - name: notebook (html)
+      url: assets/lectures/lec10/lec10.html
+    - name: data
+      url: assets/lectures/lec10/data.zip
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=423
+    - name: screencast
+      url: https://www.youtube.com/watch?v=Yif8OtnzQwc
+  assignment: |
+    [Vitamin 4 Released](https://goo.gl/forms/Pb7iIdPBgGBUzvgx2)
 
   # links:
   #   - name: pptx
@@ -266,80 +393,65 @@
   #   [Lab 4 Released: Plotting, smoothing, transformation](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/lab04.zip)
 
 
-- date: 02/13/2018
-  topic: XPath and Web Technologies
-  lecturer: Perez
-  description: |
-    Data are available on the Internet - they can be embedded in web pages, provided after a form submission, and accessible through a REST API. We can access data from these various sources using HTTP - the HyperText Transfer Protocol. We will cover HTTP at a high level, and provide examples of how to use it to access web pages, submit forms, and crate REST requests.  Furthermore, when the data are embedded in an HTML document, we can use XPath to locate and extract it. XPath is a powerful tool developed for locating elements and content in an XML document (much better than regular expressions!). We cover the basics of XPath, which is enough to write complex expressions.
-
-  # links:
-  # - name: pptx
-  #   url: https://drive.google.com/open?id=1PdKLUoXSfAr_SvqHC9L1OO-LVxjeq2Qc
-  # - name: pdf
-  #   url: https://drive.google.com/open?id=1274pH3aG79GWoct2aYi4fkFDdZqvdCb0
-  # - name: handout
-  #   url: https://drive.google.com/open?id=1nnnistmtM3EQ08865SIp4ezcBzE0SXio
-  # - name: screencast
-  #   url: https://www.youtube.com/watch?v=EHo0Y6S1vIk
-  # assignment: |
-  #   [Lab 12 Released: TensorFlow & Logistic/Softmax Regression](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/lab12.zip)
-
-
-
-- date: 02/15/2018
-  topic: Introduction to Relational Data Management and SQL
+- date: 2/20/2018
+  topic: Finish REST and Start Relational Databases and SQL
   lecturer: Gonzalez
   description: |
     Much of the the important data in the world is stored in relational database management systems.  In this lecture we will introduce the key concepts in relational databases including the relational data model, basic schema design, and data independence.  We will then begin to dig into the SQL language for accessing and manipulating relational data.
 
-  # links:
-  #   - name: pptx
-  #     url: https://drive.google.com/open?id=0Bze55lezLJhIaU9wZ3YzNlhyM0E
-  #   - name: pdf
-  #     url: https://drive.google.com/open?id=0Bze55lezLJhIbHc4cWtYblk2dnM
-  #   - name: handout
-  #     url: https://drive.google.com/open?id=0Bze55lezLJhIX1ZaU2JkclJ6LVU
-  #   - name: Notebook HTML
-  #     url: assets/notebooks/15-lec/SQL_Exercise_Part_1.html
-  #   - name: Notebook ipynb
-  #     url: assets/notebooks/15-lec/SQL_Exercise_Part_1.ipynb
-  #   - name: PostgreSQL for Mac
-  #     url: https://postgresapp.com
-  #   - name: PostgreSQL for Windows
-  #     url: https://www.postgresql.org/download/windows/
-  #   - name: PostgreSQL for Linux
-  #     url: http://lmgtfy.com/?q=Install+PostgreSQL+on+Linux
-  #   - name: W3C Tutorial
-  #     url: https://www.w3schools.com/sql/default.asp
-  #   - name: screencast
-  #     url: https://www.youtube.com/watch?v=iOZaohMSijk
-  # assignment: |
-  #   [Lab 7 Released: Bootstrap](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/lab07.zip)
-
-  #   [Homework 4 Released: The Bootstrap](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/hw4.zip)
+  links:
+    - name: pptx
+      url: assets/lectures/lec11/11-finish-web-begin-sql_v2.pptx
+    - name: pdf
+      url: assets/lectures/lec11/11-finish-web-begin-sql_v2.pdf
+    - name: handout
+      url: assets/lectures/lec11/11-finish-web-begin-sql_v2-handout.pdf
+    - name: SQL Part 1 (html)
+      url: assets/lectures/lec11/sql_introduction_part1.html
+    - name: Code
+      url: assets/lectures/lec11/code.zip
+    - name: W3C Tutorial
+      url: https://www.w3schools.com/sql/default.asp
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=448
+    - name: screencast
+      url: https://www.youtube.com/watch?v=7XYvLa_luDg
 
 
-- date: 02/20/2018
+- date: 2/22/2018
   topic: More Advanced SQL
-  lecturer: Gonzalez
+  lecturer: Biye Jiang (Guest Lecturer)
   description: |
     In this lecture we review more advanced SQL queries including joins and common table expressions and discuss how combine computation in a database with python.
 
-  # links:
-  # - name: pptx
-  #   url: https://drive.google.com/open?id=0Bze55lezLJhIVko4WXNGbHVIOUE
-  # - name: pdf
-  #   url: https://drive.google.com/open?id=0Bze55lezLJhId1ZRWmpCeUJjWjg
-  # - name: handout
-  #   url: https://drive.google.com/open?id=0Bze55lezLJhIVVVQMXVLZ0xSTEk
-  # - name: Notebook HTML
-  #   url: assets/notebooks/16-lec/SQL_Exercise_Part_2.html
-  # - name: Notebook ipynb
-  #   url: assets/notebooks/16-lec/SQL_Exercise_Part_2.ipynb
-  # - name: The FEC SQL Data (Students and Sailors inlcuded)
-  #   url: https://drive.google.com/open?id=0Bze55lezLJhIMi1PMUVxZjhyRkU
-  # - name: Loading the SQL Dump
-  #   url: https://www.postgresql.org/docs/9.1/static/backup-dump.html
+  links:
+    - name: pptx
+      url: assets/lectures/lec12/12-databases-part2.pptx
+    - name: pdf
+      url: assets/lectures/lec12/12-databases-part2.pdf
+    - name: handout
+      url: assets/lectures/lec12/12-databases-part2-hangout.pdf
+    - name: PostgreSQL for Mac
+      url: https://postgresapp.com
+    - name: PostgreSQL for Windows
+      url: https://www.postgresql.org/download/windows/
+    - name: PostgreSQL for Linux
+      url: http://lmgtfy.com/?q=Install+PostgreSQL+on+Linux
+    - name: Notebook HTML
+      url: assets/lectures/lec12/sql_introduction_part2.html
+    - name: Notebook ipynb
+      url: assets/lectures/lec12/sql_introduction_part2.ipynb
+    - name: Loading the SQL Dump
+      url: https://www.postgresql.org/docs/9.1/static/backup-dump.html
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=467
+    - name: screencast
+      url: https://www.youtube.com/watch?v=0rA3dH2k_zM
+  assignment : |
+    [Vitamin 5 Released](https://goo.gl/forms/WJFLW8GGrGXSmfHo1)
+
+   #- name: The FEC SQL Data (Students and Sailors inlcuded)
+   #  url: https://drive.google.com/open?id=0Bze55lezLJhIMi1PMUVxZjhyRkU
   # - name: screencast
   #   url: https://www.youtube.com/watch?v=KNRVdz5H3-8
   # assignment: |
@@ -347,33 +459,62 @@
 
 
 
-- date: 02/22/2018
+- date: 2/27/2018
   topic: Modeling and Estimation
-  lecturer: Gonzalez
+  lecturer: Perez
+  textbook:
+    - chapter: Chapter 10
+      url: https://www.textbook.ds100.org/ch10/modeling_estimation.html
   description: |
     How do we pick a number to represent a dataset? A key step in data science is developing models that capture the essential signal in data while providing insight into the phenomena that govern the data and enable effective prediction.  In this lecture we address the fundamental question of how to choose a number and more generally a model that reflects the data.  We will introduce the concept of loss functions and begin to develop basic models.
 
-  # links:
-  #   - name: pptx
-  #     url: https://drive.google.com/open?id=0Bze55lezLJhIZ1ZKNHgtdFFvSTA
-  #   - name: pdf
-  #     url: https://drive.google.com/open?id=0Bze55lezLJhIQmRkcUlldkRia2c
-  #   - name: handout
-  #     url: https://drive.google.com/open?id=0Bze55lezLJhIZng2cURWWDhBdFE
-  #   - name: Estimation Notebook (html)
-  #     url: assets/notebooks/09-lec/Estimation.html
-  #   - name: Estimation Notebook (ipynb)
-  #     url: assets/notebooks/09-lec/Estimation.ipynb
-  #   - name: screencast
-  #     url: https://www.youtube.com/watch?v=9PMF6R2lIl0
-  # assignment: |
-  #   [Vitamin 4 Released](https://goo.gl/forms/oQYmB523kyOmuMcb2)
+  links:
+    - name: 13-modeling-and-estimation (PPTX)
+      url: assets/lectures/lec13/13-modeling-and-estimation.pptx
+    - name: pdf
+      url: assets/lectures/lec13/13-modeling-and-estimation.pdf
+    - name: handout
+      url: assets/lectures/lec13/13-modeling-and-estimation-handout.pdf
+    - name: Estimation notebook (HTML Version)
+      url: assets/lectures/lec13/Estimation.html
+    - name: convex-functions notebook (HTML Version)
+      url: assets/lectures/lec13/convex-functions.html
+    - name: code and data (includes notebooks and scripts as needed)
+      url: assets/lectures/lec13/code.zip
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=526
+    - name: screencast
+      url: https://www.youtube.com/watch?v=oEYJyqFhO-4
+  assignment : |
+    [Lab 6 Released: Regular Expressions, SQL](https://github.com/DS-100/sp18/raw/master/zipfiles/lab06.zip)
 
-- date: 02/27/2017
+    [Homework 4 Released: SQL, FEC Data, and Small Donors](https://github.com/DS-100/sp18/raw/master/zipfiles/hw4.zip)
+
+- date: 3/01/2018
   topic: Gradient Descent for Model Estimation
-  lecturer: Gonzalez
+  lecturer: Jake Soloff
+  textbook:
+    - chapter: Chapter 11
+      url: https://www.textbook.ds100.org/ch11/gradient_basics.html
   description: |
-    In this lecture we will continue our development of models within the framework of loss minimization.  In this lecture we will explore how calculus can be used to analytically and numerically minimize loss functions.  We will introduce the widely used gradient descent and stochastic gradient descent algorithms.
+    In this lecture we will continue our development of models within the framework of loss minimization.
+    In particular, we will explore how calculus can be used to analytically and numerically minimize loss functions.
+    We will introduce the widely used gradient descent algorithm in the context of recommendation systems.
+  links:
+    - name: Lecture Notebook HTML
+      url: assets/lectures/lec14/lec-14.html
+    - name: Lecture Notebook iPynb
+      url: assets/lectures/lec14/Slides.ipynb
+    - name: Raw Data
+      url: assets/lectures/lec14/ml-100k.zip
+    - name: The Loss Game (be a gradient descender...)
+      url: assets/lectures/lec14/loss_game.html
+    - name: Tutorial on Numerical Optimization
+      url: http://www.benfrederickson.com/numerical-optimization/
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=577
+    - name: screencast
+      url: https://www.youtube.com/watch?v=YphRY-To4gM
 
   # links:
   #   - name: pptx
@@ -403,13 +544,51 @@
   #   url: https://www.youtube.com/watch?v=tPcKqhF3gAI
 
 
- 
-- date: 03/01/2018
+- date: 3/6/2018
+  topic: Midterm Review
+  lecturer: Gonzalez
+  description: |
+    This lecture will review key topics from the course that will be covered on the midterm.
+  links:
+    - name: PPTX
+      url: assets/lectures/lec15/15-midterm-review_v2.pptx
+    - name: PDF
+      url: assets/lectures/lec15/15-midterm-review_v2.pdf
+    - name: Handout
+      url: assets/lectures/lec15/15-midterm-review_v2-handout.pdf
+    - name: Practice Midterm
+      url: assets/lectures/lec15/DS100_practice_midterm_sp18.pdf
+    - name: Practice Midterm solutions
+      url: assets/lectures/lec15/DS100_practice_midterm_sp18_sol.pdf
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=670
+    - name: screencast
+      url: https://www.youtube.com/watch?v=sKr_wdD1evg
+
+
+- date: 3/8/2018
+  topic: Midterm
+  lecturer: Gonzalez and Perez
+  description: |
+    The midterm will take place in class (attendance is mandatory).
+
+
+- date: 3/13/2018
   topic: Generalization and Empirical Risk Minimization
   lecturer: Gonzalez
   description: |
     So far we have focused how to estimate a descriptive statistic or more generally the parameters of a model that reflects our data.  What does this say about the population?  How can we generalize beyond what we observe?  In this lecture we recast our loss minimization approach in the context of empirical risk minimization.  In the process we will review basic proability concepts including expectations, bias, and variance.
-
+  assignment : |
+    [Lab 8 Released: Modeling and Estimation](https://github.com/DS-100/sp18/raw/master/zipfiles/lab08.zip)
+  links:
+    - name: PPTX
+      url: assets/lectures/lec16/16-probability_V3.pptx
+    - name: PDF
+      url: assets/lectures/lec16/16-probability_V3.pdf 
+    - name: Handout
+      url: assets/lectures/lec16/16-probability_V3-handout.pdf
+    - name: screencast
+      url: https://www.youtube.com/watch?v=0PJzCp_zJm0
   # links:
   # - name: pptx
   #   url: https://drive.google.com/open?id=1EWx34t0Aq1FEu-_mpJN22QQGISWo4Noa
@@ -429,20 +608,8 @@
   #   [Lab 11 Released: Feature Engineering & Cross Validation](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/lab11.zip)
 
 
-- date: 3/6/2018
-  topic: Midterm Review
-  lecturer: Gonzalez
-  description: |
-    This lecture will review key topics from the course that will be covered on the midterm.
 
-- date: 3/8/2018
-  topic: Midterm 
-  lecturer: Gonzalez and Perez
-  description: |
-    The midterm will take place in class (attendance is mandatory).
-
-
-- date: 3/13/2018
+- date: 3/15/2018
   topic: The Bias Variance Tradeoff and Regularization
   lecturer: Gonzalez
   description: |

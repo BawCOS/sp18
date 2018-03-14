@@ -3,6 +3,7 @@ channels:
 - defaults
 dependencies:
 - attrs=17.3.0
+- beautifulsoup4=4.6.0
 - bleach=2.1.2
 - chardet=3.0.4
 - coverage=4.4.2
@@ -32,7 +33,7 @@ dependencies:
 - nbconvert=5.3.1
 - nbformat=4.4.0
 - networkx=2.0
-- notebook=5.3.1
+- notebook=5.4.0
 - numpy=1.12.1
 - pandas=0.22
 - pandoc=1.19.2.1
@@ -80,7 +81,7 @@ dependencies:
 - pip:
   - colorlover==0.2.1
   - cufflinks==0.12.1
-  - jupyterlab==0.31.2
+  - jupyterlab==0.31.8
   - oauthlib==2.0.6
   - requests-oauthlib==0.8.0
   - tweepy==3.5.0

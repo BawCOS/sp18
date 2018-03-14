@@ -1,8 +1,39 @@
 # This file contains the course announcements in reverse chronological order.
 # Note that only the most recent (topmost) announcement is rendered.
-- date: 2/03/2018
+- date: 3/12/2018
   text: |
+    - [Lab 8](https://github.com/DS-100/sp18/raw/master/zipfiles/lab08.zip) released. It is due Monday, Mar 12th at 11:59PM.
+    - Fill out the [Mid-Semester Survey](https://goo.gl/forms/qoELd7IzW4a5DsZy1) to get 1% added to your midterm score.
+- date: 3/1/2018
+  text: |
+    - The Midterm is in class Thursday, Mar 8th from 11:00 to 12:30PM in 150 Wheeler.
+    - [Homework 4](https://github.com/DS-100/sp18/raw/master/zipfiles/hw4.zip) released. It is due Tuesday, Mar 6th at 11:59PM.
+- date: 3/1/2018
+  text: |
+    - [Homework 4](https://github.com/DS-100/sp18/raw/master/zipfiles/hw4.zip) released. It is due Tuesday, Mar 6th at 11:59PM.
+- date: 2/26/2018
+  text: |
+    - [Project 1](https://github.com/DS-100/sp18/raw/master/zipfiles/proj1.zip) released. It is due Tuesday, Feb 27th at 11:59PM.
+    - [Vitamin 5](https://goo.gl/forms/WJFLW8GGrGXSmfHo1) released. It is due Tuesday, Feb 27th at 11:59PM.
+    - [Lab 6](https://github.com/DS-100/sp18/raw/master/zipfiles/lab06.zip) released. It is due Monday, Feb 26th at 11:59PM.
+- date: 2/14/2018
+  text: |
+    - [Project 1](https://github.com/DS-100/sp18/raw/master/zipfiles/proj1.zip) released. It is due Tuesday, Feb 27th at 11:59PM.
+    - [Vitamin 4](https://goo.gl/forms/Pb7iIdPBgGBUzvgx2) released. It is due Tuesday, Feb 20th at 11:59PM.
+- date: 2/09/2018
+  text: |
+    - [Homework 3](https://github.com/DS-100/sp18/raw/master/zipfiles/hw3.zip) released. It is due Tuesday, Feb 13th at 11:59PM.
+    - [Lab 4](https://github.com/DS-100/sp18/raw/master/zipfiles/lab04.zip) released. It is due Monday, Feb 12th at 11:59PM.
+- date: 2/06/2018
+  text: |
+    - [Homework 3](https://github.com/DS-100/sp18/raw/master/zipfiles/hw3.zip) released. It is due Tuesday, Feb 13th at 11:59PM.
+    - [Homework 2](https://github.com/DS-100/sp18/raw/master/zipfiles/hw2.zip) released. It is due Wednesday, Feb 7th at 11:59PM (midnight).
+    - [Lab 03](https://github.com/DS-100/sp18/raw/master/zipfiles/lab03.zip) released. It is due Wednesday, Feb 7th at 1:00AM (morning).
+- date: 2/06/2018
+  text: |
+    - [Homework 2](https://github.com/DS-100/sp18/raw/master/zipfiles/hw2.zip) released. It is due Wednesday, Feb 7th at 11:59PM (midnight).
     - [Vitamin 2](https://goo.gl/forms/jeh0jMEVNi9Wafdo1) released. It is due Tuesday, Feb 6th at 11:59PM.
+    - [Lab 03](https://github.com/DS-100/sp18/raw/master/zipfiles/lab03.zip) released. It is due Wednesday, Feb 7th at 1:00AM (morning).
 - date: 1/30/2018
   text: |
     - [Homework 2](https://github.com/DS-100/sp18/raw/master/zipfiles/hw2.zip) released. It is due Tuesday, Feb 6th at 11:59PM.
@@ -20,4 +51,4 @@
     - Class begins!
     - Sign-up for [lab and section times](https://goo.gl/forms/zulZXeFLR1hhu1mh2).
     - Sign-up for [Piazza](https://piazza.com/berkeley/spring2018/data100).
-    
+
