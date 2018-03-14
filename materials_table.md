@@ -24,4 +24,4 @@ Date | Lecture | Reading | Discussion & Lab | Vitamin | Homework & Project
 3/1 | Gradient Descent for Model Estimation <br /> [screencast](https://www.youtube.com/watch?v=YphRY-To4gM) [slides](assets/lectures/lec14/lec-14.html) [notebook](assets/lectures/lec14/Slides.ipynb) | | [Disc 6: Loss Functions & Gradient Descent](assets/discussions/disc06.pdf) ([Solutions](assets/discussions/disc06-sol.pdf)) 
 3/6 | Midterm Review <br /> [screencast](https://www.youtube.com/watch?v=sKr_wdD1evg) [slides](assets/lectures/lec15/15-midterm-review_v2.pdf) 
 3/8 | Midterm <br /> 
-3/13 | Generalization and Empirical Risk Minimization <br /> | | [Lab 8: Modeling and Estimation](https://github.com/DS-100/sp18/raw/master/zipfiles/lab08.zip)
+3/13 | Generalization and Empirical Risk Minimization <br /> [screencast](https://www.youtube.com/watch?v=0PJzCp_zJm0) [slides](assets/lectures/lec16/16-probability_V3.pdf) | | [Lab 8: Modeling and Estimation](https://github.com/DS-100/sp18/raw/master/zipfiles/lab08.zip)
