@@ -615,8 +615,12 @@
   description: |
     There is a fundamental tension in predictive modeling between our ability to fit the data and to generalize to the world. In this lecture we characterize this tension through the tradeoff between bias and variance.  We will derive the bias and variance decomposition of the least squares objective.  We then discuss how to manage this tradeoff by augmenting our objective with a regularization penalty.
   links:
-    - name: 17-bias-variance-regularization (PPTX)
+    - name: (PPTX)
       url: assets/lectures/lec17/17-bias-variance-regularization.pptx
+    - name: (PDF)
+      url: assets/lectures/lec17/17-bias-variance-regularization.pdf  
+    - name: (Handout)
+      url: assets/lectures/lec17/17-bias-variance-regularization-handout.pdf  
     - name: Bias_Variance_Regularization_Simplified notebook (HTML Version)
       url: assets/lectures/lec17/Bias_Variance_Regularization_Simplified.html
     - name: code and data (includes notebooks and scripts as needed)
