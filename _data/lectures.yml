@@ -603,11 +603,9 @@
 
 - date: 3/15/2018
   topic: The Bias Variance Tradeoff and Regularization
-  lecturer: Gonzalez
+  lecturer: Perez
   description: |
     There is a fundamental tension in predictive modeling between our ability to fit the data and to generalize to the world. In this lecture we characterize this tension through the tradeoff between bias and variance.  We will derive the bias and variance decomposition of the least squares objective.  We then discuss how to manage this tradeoff by augmenting our objective with a regularization penalty.
-
-
   # links:
   # - name: pptx
   #   url: https://drive.google.com/open?id=1EWx34t0Aq1FEu-_mpJN22QQGISWo4Noa
@@ -623,8 +621,8 @@
   #   url: assets/notebooks/24-lec/regularization.zip
   # - name: screencast
   #   url: https://www.youtube.com/watch?v=y34F4Alquac
-  # assignment: |
-  #   [Lab 11 Released: Feature Engineering & Cross Validation](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/lab11.zip)
+  assignment: |
+    [Homework 5 Released: Modeling and Gradient Descent](https://github.com/DS-100/sp18/raw/master/zipfiles/hw5.zip)
 
 
 # ## ---- REst of schedule

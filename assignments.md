@@ -17,6 +17,8 @@ description: "Homework, Projects, Vitamins, Labs, Discussions"
 
 ## Homework
 
+[Homework 5: Modeling and Gradient Descent](https://github.com/DS-100/sp18/raw/master/zipfiles/hw5.zip)
+
 [Homework 4: SQL, FEC Data, and Small Donors](https://github.com/DS-100/sp18/raw/master/zipfiles/hw4.zip)
 
 [Homework 3: EDA of Bike Sharing](https://github.com/DS-100/sp18/raw/master/zipfiles/hw3.zip)
