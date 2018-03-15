@@ -44,6 +44,7 @@ description: "Homework, Projects, Vitamins, Labs, Discussions"
 [Vitamin 1](https://goo.gl/forms/ps7OJXLi6Tiv38eB3)
 
 ## Labs
+
 [Lab 8: Modeling and Estimation](https://github.com/DS-100/sp18/raw/master/zipfiles/lab08.zip)
 
 [Lab 6: Regular Expressions, SQL](https://github.com/DS-100/sp18/raw/master/zipfiles/lab06.zip)
