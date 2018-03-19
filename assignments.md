@@ -45,6 +45,8 @@ description: "Homework, Projects, Vitamins, Labs, Discussions"
 
 ## Labs
 
+[Lab 9: Bootstrap](https://github.com/DS-100/sp18/raw/master/zipfiles/lab09.zip)
+
 [Lab 8: Modeling and Estimation](https://github.com/DS-100/sp18/raw/master/zipfiles/lab08.zip)
 
 [Lab 6: Regular Expressions, SQL](https://github.com/DS-100/sp18/raw/master/zipfiles/lab06.zip)
