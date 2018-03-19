@@ -584,7 +584,7 @@
     - name: PPTX
       url: assets/lectures/lec16/16-probability_V4.pptx
     - name: PDF
-      url: assets/lectures/lec16/16-probability_V4.pdf 
+      url: assets/lectures/lec16/16-probability_V4.pdf
     - name: Handout
       url: assets/lectures/lec16/16-probability_V4-handout.pdf
     - name: screencast
@@ -618,9 +618,9 @@
     - name: (PPTX)
       url: assets/lectures/lec17/17-bias-variance-regularization.pptx
     - name: (PDF)
-      url: assets/lectures/lec17/17-bias-variance-regularization.pdf  
+      url: assets/lectures/lec17/17-bias-variance-regularization.pdf
     - name: (Handout)
-      url: assets/lectures/lec17/17-bias-variance-regularization-handout.pdf  
+      url: assets/lectures/lec17/17-bias-variance-regularization-handout.pdf
     - name: Bias_Variance_Regularization_Simplified notebook (HTML Version)
       url: assets/lectures/lec17/Bias_Variance_Regularization_Simplified.html
     - name: code and data (includes notebooks and scripts as needed)
@@ -636,6 +636,9 @@
   lecturer: Gonzalez
   description: |
     Linear regression is at the foundation of most machine learning and statistical methods.  We have already introduced linear models in an informal way; in this lecture we formalize the setup of a linear model as a parametric description of a dataset, whose parameters can be estimated computationally.  We study the normal equations from the perspective of optimization and discuss some of the computational issues around solving the normal equations.  We will then transition to the task of feature engineering and describe a range of techniques for transforming data     to enable linear models to fit complex relationships.
+  textbook:
+    - chapter: Chapter 12
+      url: https://www.textbook.ds100.org/ch12/linear_models.html
 #   links:
 #   - name: pptx
 #     url: https://drive.google.com/open?id=14D9IkRSojndeGNxoo537PCGrAGx2QI3i
