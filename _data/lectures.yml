@@ -639,13 +639,18 @@
   textbook:
     - chapter: Chapter 12
       url: https://www.textbook.ds100.org/ch12/linear_models.html
-#   links:
-#   - name: pptx
-#     url: https://drive.google.com/open?id=14D9IkRSojndeGNxoo537PCGrAGx2QI3i
-#   - name: pdf
-#     url: https://drive.google.com/open?id=1kkUJ0TuhDfik2CLqYNfQpHPc9TNdbGn8
-#   - name: handout
-#     url: https://drive.google.com/open?id=14D9IkRSojndeGNxoo537PCGrAGx2QI3i
+  links:
+  - name: pptx
+    url: assets/lectures/lec19/19-linear_models.pptx
+  - name: pdf
+    url: assets/lectures/lec19/19-linear_models.pdf
+  - name: handout
+    url: assets/lectures/lec19/19-linear_models-handout.pdf
+  - name: HTML Notebook
+    url: assets/lectures/lec19/code/FeatureEngineering.html
+  - name: code.zip
+    url: assets/lectures/lec19/code.zip
+
 #   - name: Linear Regression Notebook HTML
 #     url: assets/notebooks/22-lec/LeastSquares.html
 #   - name: Feature Engineering Notebook HTML
