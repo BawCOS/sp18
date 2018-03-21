@@ -660,7 +660,8 @@
     url: https://www.youtube.com/watch?v=jgPumzGP1pM
   - name: Piazza Thread
     url: https://piazza.com/class/jc04z4cze297dy?cid=859
-
+  assignment : |
+    [Lab 9 Released: Bootstrap](https://github.com/DS-100/sp18/raw/master/zipfiles/lab09.zip)
 #   - name: Linear Regression Notebook HTML
 #     url: assets/notebooks/22-lec/LeastSquares.html
 #   - name: Feature Engineering Notebook HTML
