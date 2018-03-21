@@ -589,6 +589,8 @@
       url: assets/lectures/lec16/16-probability_V4-handout.pdf
     - name: screencast
       url: https://www.youtube.com/watch?v=0PJzCp_zJm0
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=787
   # links:
   # - name: pptx
   #   url: https://drive.google.com/open?id=1EWx34t0Aq1FEu-_mpJN22QQGISWo4Noa
@@ -625,10 +627,14 @@
       url: assets/lectures/lec17/Bias_Variance_Regularization_Simplified.html
     - name: code and data (includes notebooks and scripts as needed)
       url: assets/lectures/lec17/code.zip
-  # - name: screencast
-  #   url: https://www.youtube.com/watch?v=y34F4Alquac
+    - name: screencast
+      url: https://www.youtube.com/watch?v=M5nkMZEc_o0
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=806
   assignment: |
     [Homework 5 Released: Modeling and Gradient Descent](https://github.com/DS-100/sp18/raw/master/zipfiles/hw5.zip)
+
+    [Vitamin 6 Released](https://goo.gl/forms/Aydl9dWLIuvAZCW92)
 
 
 - date: 3/20/2018
@@ -650,6 +656,10 @@
     url: assets/lectures/lec19/code/FeatureEngineering.html
   - name: code.zip
     url: assets/lectures/lec19/code.zip
+  - name: screencast
+    url: https://www.youtube.com/watch?v=jgPumzGP1pM
+  - name: Piazza Thread
+    url: https://piazza.com/class/jc04z4cze297dy?cid=859
 
 #   - name: Linear Regression Notebook HTML
 #     url: assets/notebooks/22-lec/LeastSquares.html
