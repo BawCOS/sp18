@@ -681,10 +681,17 @@
     In this lecture, we will finish our discussion on linear regression by reviewing how to use the scikit learn regression package.  We will then explore the challenges of overfitting and review how regularization can be used to address overfitting.  We will introduce cross-validation as a mechanism to estimate the test error and to select the reguarlization parameters. Then with the remaining time we will begin our discussion on classification and the cross-entropy loss function. 
 # We consider the case where our response is categorical, in particular, we focus on the simple case where the response has two categories. We begin by using least squares to fit the binary response to categorical explanatory variables and find that the predictions are proportions. Next, we consider more complex model that is linear in quantitative explanatory variables, which is called the linear probability model, and we uncover limitations of this model. We motivate an alternative model, the logistic, by examining a local linear fit and matching its shape. We also draw connections between the logistic and log odds. Lastly, we introduce an alternative loss function that is more appropriate for working with probabilities, the Kullback-Leibler Divergence. We derive a representation of the K-L divergence for binary response variables.
   links:
+  - name: pptx
+    url: assets/lectures/lec20/20-cv_and_regularization_v2.pptx
+  - name: pdf
+    url: assets/lectures/lec20/20-cv_and_regularization_v2.pdf
+  - name: handout
+    url: assets/lectures/lec20/20-cv_and_regularization_v2-handout.pdf
   - name: HTML Notebook
-    url: assets/lectures/lec19/code/FeatureEngineering.html
+    url: assets/lectures/lec20/code/FeatureEngineeringPart2.html
   - name: code.zip
-    url: assets/lectures/lec19/code.zip
+    url: assets/lectures/lec20/code.zip
+  
 #   links:
 #   - name: pptx
 #     url: https://drive.google.com/open?id=1RRb8Ccp1xDRdksoAEJvyUYoY34Fl_yyJ
