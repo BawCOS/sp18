@@ -1,6 +1,9 @@
 # This file contains the course announcements in reverse chronological order.
 # Note that only the most recent (topmost) announcement is rendered.
-- date: 3/16/2019
+- data: 3/22/2018
+text: |
+    - [Homework 6](https://github.com/DS-100/sp18/raw/master/zipfiles/hw6.zip) released.  It is due Tuesday, April 10 at 11:59PM.
+- date: 3/16/2018
   text: |
     - [Lab 9](https://github.com/DS-100/sp18/raw/master/zipfiles/lab09.zip) released. It is due Monday, Mar 19th at 11:59PM.
     - [Homework 5](https://github.com/DS-100/sp18/raw/master/zipfiles/hw5.zip) released. It is due Wednesday, Mar 21st at 11:59PM.
