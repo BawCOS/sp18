@@ -1,7 +1,7 @@
 # This file contains the course announcements in reverse chronological order.
 # Note that only the most recent (topmost) announcement is rendered.
 - data: 3/22/2018
-text: |
+  text: |
     - [Homework 6](https://github.com/DS-100/sp18/raw/master/zipfiles/hw6.zip) released.  It is due Tuesday, April 10 at 11:59PM.
 - date: 3/16/2018
   text: |
