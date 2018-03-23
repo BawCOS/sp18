@@ -584,11 +584,13 @@
     - name: PPTX
       url: assets/lectures/lec16/16-probability_V4.pptx
     - name: PDF
-      url: assets/lectures/lec16/16-probability_V4.pdf 
+      url: assets/lectures/lec16/16-probability_V4.pdf
     - name: Handout
       url: assets/lectures/lec16/16-probability_V4-handout.pdf
     - name: screencast
       url: https://www.youtube.com/watch?v=0PJzCp_zJm0
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=787
   # links:
   # - name: pptx
   #   url: https://drive.google.com/open?id=1EWx34t0Aq1FEu-_mpJN22QQGISWo4Noa
@@ -614,23 +616,124 @@
   lecturer: Perez
   description: |
     There is a fundamental tension in predictive modeling between our ability to fit the data and to generalize to the world. In this lecture we characterize this tension through the tradeoff between bias and variance.  We will derive the bias and variance decomposition of the least squares objective.  We then discuss how to manage this tradeoff by augmenting our objective with a regularization penalty.
-  # links:
-  # - name: pptx
-  #   url: https://drive.google.com/open?id=1EWx34t0Aq1FEu-_mpJN22QQGISWo4Noa
-  # - name: pdf
-  #   url: https://drive.google.com/open?id=1Sz01c-lblSRM0rzFvhvoZZUJdet7do7u
-  # - name: handout
-  #   url: https://drive.google.com/open?id=1VkxwM0aFXheV1VFzx_M0mO8Z99uc90-5
-  # - name: Feature Engineering Part 2 (HTML)
-  #   url: assets/notebooks/24-lec/Feature_Engineering_Part_2.html
-  # - name: Bias, Variance, and Regularization (HTML)
-  #   url: assets/notebooks/24-lec/Bias_Variance_and_Regularization.html
-  # - name: Raw Notebooks (ipynb.zip)
-  #   url: assets/notebooks/24-lec/regularization.zip
-  # - name: screencast
-  #   url: https://www.youtube.com/watch?v=y34F4Alquac
+  links:
+    - name: (PPTX)
+      url: assets/lectures/lec17/17-bias-variance-regularization.pptx
+    - name: (PDF)
+      url: assets/lectures/lec17/17-bias-variance-regularization.pdf
+    - name: (Handout)
+      url: assets/lectures/lec17/17-bias-variance-regularization-handout.pdf
+    - name: Bias_Variance_Regularization_Simplified notebook (HTML Version)
+      url: assets/lectures/lec17/Bias_Variance_Regularization_Simplified.html
+    - name: code and data (includes notebooks and scripts as needed)
+      url: assets/lectures/lec17/code.zip
+    - name: screencast
+      url: https://www.youtube.com/watch?v=M5nkMZEc_o0
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=806
   assignment: |
     [Homework 5 Released: Modeling and Gradient Descent](https://github.com/DS-100/sp18/raw/master/zipfiles/hw5.zip)
+
+    [Vitamin 6 Released](https://goo.gl/forms/Aydl9dWLIuvAZCW92)
+
+
+- date: 3/20/2018
+  topic: Linear Regression and Feature Engineering
+  lecturer: Gonzalez
+  description: |
+    Linear regression is at the foundation of most machine learning and statistical methods.  We have already introduced linear models in an informal way; in this lecture we formalize the setup of a linear model as a parametric description of a dataset, whose parameters can be estimated computationally.  We study the normal equations from the perspective of optimization and discuss some of the computational issues around solving the normal equations.  We will then transition to the task of feature engineering and describe a range of techniques for transforming data  to enable linear models to fit complex relationships.
+  textbook:
+    - chapter: Chapter 12
+      url: https://www.textbook.ds100.org/ch12/linear_models.html
+  links:
+  - name: pptx
+    url: assets/lectures/lec19/19-linear_models_v2.pptx
+  - name: pdf
+    url: assets/lectures/lec19/19-linear_models_v2.pdf
+  - name: handout
+    url: assets/lectures/lec19/19-linear_models_v2-handout.pdf
+  - name: HTML Notebook
+    url: assets/lectures/lec19/code/FeatureEngineeringPart1.html
+  - name: code.zip
+    url: assets/lectures/lec19/code.zip
+  - name: screencast
+    url: https://www.youtube.com/watch?v=jgPumzGP1pM
+  - name: Piazza Thread
+    url: https://piazza.com/class/jc04z4cze297dy?cid=859
+  assignment : |
+    [Lab 9 Released: Bootstrap](https://github.com/DS-100/sp18/raw/master/zipfiles/lab09.zip)
+#   - name: Linear Regression Notebook HTML
+#     url: assets/notebooks/22-lec/LeastSquares.html
+#   - name: Feature Engineering Notebook HTML
+#     url: assets/notebooks/22-lec/Feature_Engineering.html
+#   - name: Raw ipynb Files and Data
+#     url: assets/notebooks/22-lec/linreg_and_features.zip
+#   - name: screencast
+#     url: https://www.youtube.com/watch?v=hTWhVYK6too
+#   assignment: |
+#     [Lab 10 Released: Least Squares Regression](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/lab10.zip)
+
+
+- date: 3/22/2018
+  topic: Cross-Validation, Regularization, and Begin Classification
+  lecturer: Gonzalez
+  description: 
+    In this lecture, we will finish our discussion on linear regression by reviewing how to use the scikit learn regression package.  We will then explore the challenges of overfitting and review how regularization can be used to address overfitting.  We will introduce cross-validation as a mechanism to estimate the test error and to select the reguarlization parameters. Then with the remaining time we will begin our discussion on classification and the cross-entropy loss function. 
+# We consider the case where our response is categorical, in particular, we focus on the simple case where the response has two categories. We begin by using least squares to fit the binary response to categorical explanatory variables and find that the predictions are proportions. Next, we consider more complex model that is linear in quantitative explanatory variables, which is called the linear probability model, and we uncover limitations of this model. We motivate an alternative model, the logistic, by examining a local linear fit and matching its shape. We also draw connections between the logistic and log odds. Lastly, we introduce an alternative loss function that is more appropriate for working with probabilities, the Kullback-Leibler Divergence. We derive a representation of the K-L divergence for binary response variables.
+  links:
+  - name: pptx
+    url: assets/lectures/lec20/20-cv_and_regularization_v2.pptx
+  - name: pdf
+    url: assets/lectures/lec20/20-cv_and_regularization_v2.pdf
+  - name: handout
+    url: assets/lectures/lec20/20-cv_and_regularization_v2-handout.pdf
+  - name: HTML Notebook
+    url: assets/lectures/lec20/code/FeatureEngineeringPart2.html
+  - name: code.zip
+    url: assets/lectures/lec20/code.zip
+  
+#   links:
+#   - name: pptx
+#     url: https://drive.google.com/open?id=1RRb8Ccp1xDRdksoAEJvyUYoY34Fl_yyJ
+#   - name: pdf
+#     url: https://drive.google.com/open?id=1apZ9ZpRux2FuvtzGExGtPm0ksLgrcxk9
+#   - name: screencast
+#     url: https://www.youtube.com/watch?v=t2tY0SRDONU
+#   assignment : |
+#     [Project 2 Released: Spam/Ham Prediction](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/proj2.zip)
+
+
+# - date: 3/22/2018
+#   topic: Classification and Logistic Regression
+#   lecturer: Gonzalez
+#   description: We consider the case where our response is categorical, in particular, we focus on the simple case where the response has two categories. We begin by using least squares to fit the binary response to categorical explanatory variables and find that the predictions are proportions. Next, we consider more complex model that is linear in quantitative explanatory variables, which is called the linear probability model, and we uncover limitations of this model. We motivate an alternative model, the logistic, by examining a local linear fit and matching its shape. We also draw connections between the logistic and log odds. Lastly, we introduce an alternative loss function that is more appropriate for working with probabilities, the Kullback-Leibler Divergence. We derive a representation of the K-L divergence for binary response variables.
+#   links:
+#   - name: HTML Notebook
+#     url: assets/lectures/lec19/code/FeatureEngineering.html
+#   - name: code.zip
+#     url: assets/lectures/lec19/code.zip
+
+# - date: 11/21/2017
+#   topic: Logistic Regression and Gradient Descent
+#   lecturer: Gonzalez
+#   description: |
+#     Losistic regression is perhaps one of the most widely used models for classification and a key building block in neural networks.  In this lecture we review the logistic regression model and the KL-divergence loss function.  We then introduce the gradient descent and stochastic gradient descent algorithms and discuss how these can be used to minimize the KL-divergence loss function.  Finally, we extend the logistic regression model to the multi-class classification setting through the soft-max function and briefly discuss the connection to deep learning.
+#   links:
+#   - name: pptx
+#     url: https://drive.google.com/open?id=1YS2ggdiNbNIhS12eqcfePLI-5lw_DTgg
+#   - name: pdf
+#     url: https://drive.google.com/open?id=1qwutQqeOB0B3P5Nd2V2M4tXeJX-OsEBF
+#   - name: handout
+#     url: https://drive.google.com/open?id=1T9XwhGB9cHXDOtnnlCJiiNj3wcr8gEPV
+#   - name: Logistic Regression Notebook Part 1 (html)
+#     url: assets/notebooks/26-lec/Logistic_Regression_Part_1.html
+#   - name: Logistic Regression Notebook Part 2 (html)
+#     url: assets/notebooks/26-lec/Logistic_Regression_Part_2.html
+#   - name: Raw Notebooks
+#     url: assets/notebooks/26-lec/lec26_notebooks.zip
+#   - name: screencast
+#     url: https://www.youtube.com/watch?v=tPcKqhF3gAI
+
 
 
 # ## ---- REst of schedule
