@@ -706,6 +706,8 @@
   topic: Classification and Logistic Regression
   lecturer: Gonzalez
   description: We consider the case where our response is categorical, in particular, we focus on the simple case where the response has two categories. We begin by using least squares to fit the binary response to categorical explanatory variables and find that the predictions are proportions. Next, we consider more complex model that is linear in quantitative explanatory variables, which is called the linear probability model, and we uncover limitations of this model. We motivate an alternative model, the logistic, by examining a local linear fit and matching its shape. We also draw connections between the logistic and log odds. Lastly, we introduce an alternative loss function that is more appropriate for working with probabilities, the Kullback-Leibler Divergence. We derive a representation of the K-L divergence for binary response variables.
+
+  
 #   links:
 #   - name: HTML Notebook
 #     url: assets/lectures/lec19/code/FeatureEngineering.html
