@@ -675,18 +675,17 @@
 
 
 - date: 3/22/2018
-  topic: Cross-Validation, Regularization, and Begin Classification
+  topic: Finish Cross-Validation and Regularization
   lecturer: Gonzalez
   description: 
-    In this lecture, we will finish our discussion on linear regression by reviewing how to use the scikit learn regression package.  We will then explore the challenges of overfitting and review how regularization can be used to address overfitting.  We will introduce cross-validation as a mechanism to estimate the test error and to select the reguarlization parameters. Then with the remaining time we will begin our discussion on classification and the cross-entropy loss function. 
-# We consider the case where our response is categorical, in particular, we focus on the simple case where the response has two categories. We begin by using least squares to fit the binary response to categorical explanatory variables and find that the predictions are proportions. Next, we consider more complex model that is linear in quantitative explanatory variables, which is called the linear probability model, and we uncover limitations of this model. We motivate an alternative model, the logistic, by examining a local linear fit and matching its shape. We also draw connections between the logistic and log odds. Lastly, we introduce an alternative loss function that is more appropriate for working with probabilities, the Kullback-Leibler Divergence. We derive a representation of the K-L divergence for binary response variables.
+    In this lecture, we will finish our discussion on linear regression by reviewing how to use the scikit learn regression package.  We will then explore the challenges of overfitting and review how regularization can be used to address overfitting.  We will introduce cross-validation as a mechanism to estimate the test error and to select the reguarlization parameters. (Lecture links updated) 
   links:
   - name: pptx
-    url: assets/lectures/lec20/20-cv_and_regularization_v2.pptx
+    url: assets/lectures/lec20/20-cv_and_regularization_v3.pptx
   - name: pdf
-    url: assets/lectures/lec20/20-cv_and_regularization_v2.pdf
+    url: assets/lectures/lec20/20-cv_and_regularization_v3.pdf
   - name: handout
-    url: assets/lectures/lec20/20-cv_and_regularization_v2-handout.pdf
+    url: assets/lectures/lec20/20-cv_and_regularization_v3-handout.pdf
   - name: HTML Notebook
     url: assets/lectures/lec20/code/FeatureEngineeringPart2.html
   - name: code.zip
@@ -703,10 +702,10 @@
 #     [Project 2 Released: Spam/Ham Prediction](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/proj2.zip)
 
 
-# - date: 3/22/2018
-#   topic: Classification and Logistic Regression
-#   lecturer: Gonzalez
-#   description: We consider the case where our response is categorical, in particular, we focus on the simple case where the response has two categories. We begin by using least squares to fit the binary response to categorical explanatory variables and find that the predictions are proportions. Next, we consider more complex model that is linear in quantitative explanatory variables, which is called the linear probability model, and we uncover limitations of this model. We motivate an alternative model, the logistic, by examining a local linear fit and matching its shape. We also draw connections between the logistic and log odds. Lastly, we introduce an alternative loss function that is more appropriate for working with probabilities, the Kullback-Leibler Divergence. We derive a representation of the K-L divergence for binary response variables.
+- date: 4/3/2018
+  topic: Classification and Logistic Regression
+  lecturer: Gonzalez
+  description: We consider the case where our response is categorical, in particular, we focus on the simple case where the response has two categories. We begin by using least squares to fit the binary response to categorical explanatory variables and find that the predictions are proportions. Next, we consider more complex model that is linear in quantitative explanatory variables, which is called the linear probability model, and we uncover limitations of this model. We motivate an alternative model, the logistic, by examining a local linear fit and matching its shape. We also draw connections between the logistic and log odds. Lastly, we introduce an alternative loss function that is more appropriate for working with probabilities, the Kullback-Leibler Divergence. We derive a representation of the K-L divergence for binary response variables.
 #   links:
 #   - name: HTML Notebook
 #     url: assets/lectures/lec19/code/FeatureEngineering.html
