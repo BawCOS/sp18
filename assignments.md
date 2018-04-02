@@ -49,6 +49,8 @@ description: "Homework, Projects, Vitamins, Labs, Discussions"
 
 ## Labs
 
+[Lab 10: Feature Engineering and Cross-Validation](https://github.com/DS-100/sp18/raw/master/zipfiles/lab10.zip)
+
 [Lab 9: Bootstrap](https://github.com/DS-100/sp18/raw/master/zipfiles/lab09.zip)
 
 [Lab 8: Modeling and Estimation](https://github.com/DS-100/sp18/raw/master/zipfiles/lab08.zip)
