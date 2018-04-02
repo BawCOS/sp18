@@ -1,7 +1,12 @@
 # This file contains the course announcements in reverse chronological order.
 # Note that only the most recent (topmost) announcement is rendered.
-- date: 3/16/2019
+
+- date: 3/22/2018
   text: |
+    - [Homework 6](https://github.com/DS-100/sp18/raw/master/zipfiles/hw6.zip) released.  It is due Tuesday, April 10th at 11:59PM.
+- date: 3/16/2018
+  text: |
+    - [Lab 9](https://github.com/DS-100/sp18/raw/master/zipfiles/lab09.zip) released. It is due Monday, Mar 19th at 11:59PM.
     - [Homework 5](https://github.com/DS-100/sp18/raw/master/zipfiles/hw5.zip) released. It is due Wednesday, Mar 21st at 11:59PM.
     - Fill out the [Mid-Semester Survey](https://goo.gl/forms/qoELd7IzW4a5DsZy1) to get 1% added to your midterm score.
 - date: 3/12/2018

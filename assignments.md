@@ -17,6 +17,8 @@ description: "Homework, Projects, Vitamins, Labs, Discussions"
 
 ## Homework
 
+[Homework 6: Housing Price Prediction](https://github.com/DS-100/sp18/raw/master/zipfiles/hw6.zip)
+
 [Homework 5: Modeling and Gradient Descent](https://github.com/DS-100/sp18/raw/master/zipfiles/hw5.zip)
 
 [Homework 4: SQL, FEC Data, and Small Donors](https://github.com/DS-100/sp18/raw/master/zipfiles/hw4.zip)
@@ -33,6 +35,8 @@ description: "Homework, Projects, Vitamins, Labs, Discussions"
 
 ## Vitamins
 
+[Vitamin 6](https://goo.gl/forms/Aydl9dWLIuvAZCW92)
+
 [Vitamin 5](https://goo.gl/forms/WJFLW8GGrGXSmfHo1)
 
 [Vitamin 4](https://goo.gl/forms/Pb7iIdPBgGBUzvgx2)
@@ -44,6 +48,8 @@ description: "Homework, Projects, Vitamins, Labs, Discussions"
 [Vitamin 1](https://goo.gl/forms/ps7OJXLi6Tiv38eB3)
 
 ## Labs
+
+[Lab 9: Bootstrap](https://github.com/DS-100/sp18/raw/master/zipfiles/lab09.zip)
 
 [Lab 8: Modeling and Estimation](https://github.com/DS-100/sp18/raw/master/zipfiles/lab08.zip)
 
