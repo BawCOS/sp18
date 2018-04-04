@@ -690,6 +690,12 @@
     url: assets/lectures/lec20/code/FeatureEngineeringPart2.html
   - name: code.zip
     url: assets/lectures/lec20/code.zip
+  - name: screencast
+    url: https://www.youtube.com/watch?v=6AdMDzCRoN0
+  - name: Piazza Thread
+    url: https://piazza.com/class/jc04z4cze297dy?cid=900
+  assignment: |
+    [Vitamin 7 Released](https://goo.gl/forms/humDcNLASsP3aNbB2)
   
 #   links:
 #   - name: pptx
@@ -719,6 +725,12 @@
     url: assets/lectures/lec21/code/LogisticRegressionPart2.html
   - name: code.zip
     url: assets/lectures/lec21/code.zip
+  - name: screencast
+    url: https://www.youtube.com/watch?v=d4OAb_Wd1wg
+  - name: Piazza Thread
+    url: https://piazza.com/class/jc04z4cze297dy?cid=945
+  assignment: |
+    [Lab 10 Released: Feature Engineering and Cross-Validation](https://github.com/DS-100/sp18/raw/master/zipfiles/lab10.zip)
   
 #   links:
 #   - name: HTML Notebook
