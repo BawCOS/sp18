@@ -755,7 +755,10 @@
     url: assets/lectures/lec21/code/LogisticRegressionPart2.html
   - name: code.zip
     url: assets/lectures/lec21/code.zip
-  
+  - name: Monte Carlo/Central Limit Notebook (ipynb)
+    url: assets/lectures/lec22/MC-CentralLimit.ipynb
+  - name: Monte Carlo/Central Limit Notebook (HTML)
+    url: assets/lectures/lec22/MC-CentralLimit.html
 
 # - date: 11/21/2017
 #   topic: Logistic Regression and Gradient Descent
