@@ -738,6 +738,25 @@
 #   - name: code.zip
 #     url: assets/lectures/lec19/code.zip
 
+- date: 4/5/2018
+  topic: Classification and Logistic Regression (Part 2)
+  lecturer: Gonzalez
+  description: Continued discussion of material in previous lecture.
+  links:
+  - name: pptx
+    url: assets/lectures/lec22/22-classification_part2.pptx
+  - name: pdf
+    url: assets/lectures/lec22/22-classification_part2.pdf
+  - name: handout
+    url: assets/lectures/lec22/22-classification_part2-handout.pdf
+  - name: HTML Notebook (Part1)
+    url: assets/lectures/lec21/code/LogisticRegressionPart1.html
+  - name: HTML Notebook (Part2)
+    url: assets/lectures/lec21/code/LogisticRegressionPart2.html
+  - name: code.zip
+    url: assets/lectures/lec21/code.zip
+  
+
 # - date: 11/21/2017
 #   topic: Logistic Regression and Gradient Descent
 #   lecturer: Gonzalez
