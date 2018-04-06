@@ -759,6 +759,10 @@
     url: assets/lectures/lec22/MC-CentralLimit.ipynb
   - name: Monte Carlo/Central Limit Notebook (HTML)
     url: assets/lectures/lec22/MC-CentralLimit.html
+  - name: screencast
+    url: https://www.youtube.com/watch?v=3ovhGLswLNk
+  - name: Piazza Thread
+    url: https://piazza.com/class/jc04z4cze297dy?cid=972
 
 # - date: 11/21/2017
 #   topic: Logistic Regression and Gradient Descent
