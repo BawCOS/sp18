@@ -35,6 +35,8 @@ description: "Homework, Projects, Vitamins, Labs, Discussions"
 
 ## Vitamins
 
+[Vitamin 7](https://goo.gl/forms/humDcNLASsP3aNbB2)
+
 [Vitamin 6](https://goo.gl/forms/Aydl9dWLIuvAZCW92)
 
 [Vitamin 5](https://goo.gl/forms/WJFLW8GGrGXSmfHo1)
