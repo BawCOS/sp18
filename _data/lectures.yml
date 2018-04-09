@@ -645,6 +645,8 @@
   textbook:
     - chapter: Chapter 12
       url: https://www.textbook.ds100.org/ch12/linear_models.html
+    - chapter: Chapter 13
+      url: https://www.textbook.ds100.org/ch13/feature_engineering.html
   links:
   - name: pptx
     url: assets/lectures/lec19/19-linear_models_v2.pptx
@@ -677,8 +679,8 @@
 - date: 3/22/2018
   topic: Finish Cross-Validation and Regularization
   lecturer: Gonzalez
-  description: 
-    In this lecture, we will finish our discussion on linear regression by reviewing how to use the scikit learn regression package.  We will then explore the challenges of overfitting and review how regularization can be used to address overfitting.  We will introduce cross-validation as a mechanism to estimate the test error and to select the reguarlization parameters. (Lecture links updated) 
+  description:
+    In this lecture, we will finish our discussion on linear regression by reviewing how to use the scikit learn regression package.  We will then explore the challenges of overfitting and review how regularization can be used to address overfitting.  We will introduce cross-validation as a mechanism to estimate the test error and to select the reguarlization parameters. (Lecture links updated)
   links:
   - name: pptx
     url: assets/lectures/lec20/20-cv_and_regularization_v3.pptx
@@ -696,7 +698,7 @@
     url: https://piazza.com/class/jc04z4cze297dy?cid=900
   assignment: |
     [Vitamin 7 Released](https://goo.gl/forms/humDcNLASsP3aNbB2)
-  
+
 #   links:
 #   - name: pptx
 #     url: https://drive.google.com/open?id=1RRb8Ccp1xDRdksoAEJvyUYoY34Fl_yyJ
@@ -732,7 +734,7 @@
   assignment: |
     [Lab 10 Released: Feature Engineering and Cross-Validation](https://github.com/DS-100/sp18/raw/master/zipfiles/lab10.zip)
 
-  
+
 #   links:
 #   - name: HTML Notebook
 #     url: assets/lectures/lec19/code/FeatureEngineering.html
