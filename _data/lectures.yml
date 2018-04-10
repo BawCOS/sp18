@@ -769,6 +769,15 @@
   assignment : |
     [Vitamin 8 Released](https://goo.gl/forms/PTeLxrOXYnWXy6IB2)
 
+
+- date: 4/10/2018
+  topic: Probability theory, Monte Carlo Simulation, and Bootstraping
+  lecturer: Perez
+  description: We saw in the last lecture that we can study parameter estimators using theoretical and computational approaches. In this lecture, we will delve deeper into the bootstrap to study the behvaior of the empirical 75th percentile as an estimator for its population counterpart. We will derive the empirical quantile through optimization of a loss function, show that the population parameter minimizes the expected loss, bootstrap the sampling distribution of the empirical 75th percentile, and use the bootstrapped distribution to provide interval estimates for the population parameter. In addition, we will provide a more comprehensive review of basic probability.
+  links:
+    - name: 23-boostrap-mc (PPTX)
+      url: assets/lectures/lec23/23-boostrap-mc.pptx
+
 # - date: 11/21/2017
 #   topic: Logistic Regression and Gradient Descent
 #   lecturer: Gonzalez
