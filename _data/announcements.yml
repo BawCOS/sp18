@@ -1,5 +1,8 @@
 # This file contains the course announcements in reverse chronological order.
 # Note that only the most recent (topmost) announcement is rendered.
+- date: 4/11/2018
+  text: |
+    - [Vitamin 8](https://goo.gl/forms/PTeLxrOXYnWXy6IB2) released. It is due Wednesday, April 11th at 11:59PM.
 - date: 4/5/2018
   text: |
     - [Lab 11](https://github.com/DS-100/sp18/raw/master/zipfiles/lab11.zip) released. It is due Monday, Apr 9th at 11:59PM.
