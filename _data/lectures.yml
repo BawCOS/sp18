@@ -795,6 +795,30 @@
       [Lab 11 Released: Logistic Regression](https://github.com/DS-100/sp18/raw/master/zipfiles/lab11.zip)
 
 
+- date: 4/12/2018
+  topic: Hypothesis Testing
+  lecturer: Perez
+  description: |
+    A key step in inference is often answering a question about the world. We will consider 4 such questions to varying degrees of detail:
+      1) Is there enough evidence to bring someone to trial?
+      2) Is there evidence of an earth-like planet orbiting a star?
+      3) Do female TAs get lower teaching evaluations than male TAs?
+      We use hypothesis testing to answer these questions.
+      In particular, we examine a
+      collection non-parametric hypothesis tests.  These powerful procedures
+      build on the basic idea of random simulation to help quantify the rarity
+      of a particular phenomenon.  In the process of using these procedures we
+      will also touch on the challenges of false discovery and multiple
+      testing.
+  links:
+    - name: 24-hypothesis-testing (PPTX)
+      url: assets/lectures/lec24/24-hypothesis-testing.pptx
+    - name: hypergeom notebook (HTML Version)
+      url: assets/lectures/lec24/hypergeom.html
+    - name: code and data (includes notebooks and scripts as needed)
+      url: assets/lectures/lec24/code.zip
+
+
 
 # - date: 11/21/2017
 #   topic: Logistic Regression and Gradient Descent
