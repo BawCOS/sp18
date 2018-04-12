@@ -783,8 +783,18 @@
       url: https://www.youtube.com/watch?v=UwX2p8YVNtg
     - name: Piazza Thread
       url: https://piazza.com/class/jc04z4cze297dy?cid=1028
+    - name: central-limit notebook (HTML Version)
+      url: assets/lectures/lec23/central-limit.html
+    - name: prngs notebook (HTML Version)
+      url: assets/lectures/lec23/prngs.html
+    - name: restaurant-estimation notebook (HTML Version)
+      url: assets/lectures/lec23/restaurant-estimation.html
+    - name: code and data (includes notebooks and scripts as needed)
+      url: assets/lectures/lec23/code.zip
   assignment: |
       [Lab 11 Released: Logistic Regression](https://github.com/DS-100/sp18/raw/master/zipfiles/lab11.zip)
+
+
 
 # - date: 11/21/2017
 #   topic: Logistic Regression and Gradient Descent
