@@ -824,6 +824,13 @@
 
 
 
+- date: 4/17/2018
+  topic: P-values, Probability, Priors, Rabbits, Quantifauxcation, and Cargo-Cult Statistics
+  lecturer: Prof. Philip Stark, Statistics Department, Guest Lecturer.
+  description: |
+    A critical discussion of randomness, p-values, hypothesis testing and statistical inference.  Prof. Stark will discuss the subtleties intrinsic to these concepts and how we can easily mislead ourselves by following quantitative recipes naïvely, without a proper understanding of their underlying assumptions. These ideas will be illustrated with concrete examples from bird/wind turbine interactions, earthquake modeling and randomized controlled trials.
+
+
 # - date: 11/21/2017
 #   topic: Logistic Regression and Gradient Descent
 #   lecturer: Gonzalez
