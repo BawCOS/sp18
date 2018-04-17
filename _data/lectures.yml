@@ -830,6 +830,11 @@
   lecturer: Prof. Philip Stark, Statistics Department, Guest Lecturer.
   description: |
     A critical discussion of randomness, p-values, hypothesis testing and statistical inference.  Prof. Stark will discuss the subtleties intrinsic to these concepts and how we can easily mislead ourselves by following quantitative recipes naïvely, without a proper understanding of their underlying assumptions. These ideas will be illustrated with concrete examples from bird/wind turbine interactions, earthquake modeling and randomized controlled trials.
+  links:
+    - name: P-values, rabbits & friends (zipped notebook)
+      url: assets/lectures/lec25/rabbits.zip
+    - name: P-values, rabbits & friends (HTML Version)
+      url: assets/lectures/lec25/rabbits.slides.html
   assignment: |
       [Lab 12 Released: Hypothesis Testing, Baby Weights](https://github.com/DS-100/sp18/raw/master/zipfiles/lab12.zip)
 
