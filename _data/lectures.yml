@@ -821,7 +821,8 @@
       url: https://www.youtube.com/watch?v=FYMAKUjsCXQ
     - name: Piazza Thread
       url: https://piazza.com/class/jc04z4cze297dy?cid=1063
-
+  assignment : |
+      [Vitamin 9 Released](https://goo.gl/forms/DNAWJu2RLn06OrSj1)
 
 
 - date: 4/17/2018
@@ -829,6 +830,10 @@
   lecturer: Prof. Philip Stark, Statistics Department, Guest Lecturer.
   description: |
     A critical discussion of randomness, p-values, hypothesis testing and statistical inference.  Prof. Stark will discuss the subtleties intrinsic to these concepts and how we can easily mislead ourselves by following quantitative recipes naïvely, without a proper understanding of their underlying assumptions. These ideas will be illustrated with concrete examples from bird/wind turbine interactions, earthquake modeling and randomized controlled trials.
+  assignment: |
+      [Lab 12 Released: Hypothesis Testing, Baby Weights](https://github.com/DS-100/sp18/raw/master/zipfiles/lab12.zip)
+
+      [Project 2 Released: Spam vs. Ham Classification](https://github.com/DS-100/sp18/raw/master/zipfiles/proj2.zip)
 
 
 # - date: 11/21/2017
