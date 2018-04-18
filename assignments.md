@@ -31,9 +31,9 @@ description: "Homework, Projects, Vitamins, Labs, Discussions"
 
 ## Projects
 
-[Project 2: Spam vs. Ham Classification](https://github.com/DS-100/sp18/raw/master/zipfiles/proj2.zip) (due 4/29)
+[Project 2: Spam vs. Ham Classification](https://github.com/DS-100/sp18/raw/master/zipfiles/proj2.zip)
 
-[Project 1: Twitter Analysis](https://github.com/DS-100/sp18/raw/master/zipfiles/proj1.zip) (due 2/27)
+[Project 1: Twitter Analysis](https://github.com/DS-100/sp18/raw/master/zipfiles/proj1.zip) 
 
 ## Vitamins
 

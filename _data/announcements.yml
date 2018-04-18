@@ -1,5 +1,9 @@
 # This file contains the course announcements in reverse chronological order.
 # Note that only the most recent (topmost) announcement is rendered.
+- date: 4/18/2018
+  text: |
+    - [Project 2](https://github.com/DS-100/sp18/raw/master/zipfiles/proj2.zip) released. It is due Sunday, April 29th at 11:59PM.
+    - [Vitamin 9](https://goo.gl/forms/DNAWJu2RLn06OrSj1) released. It is due Wednesday, April 18th at 11:59PM.
 - date: 4/16/2018
   text: |
     - [Project 2](https://github.com/DS-100/sp18/raw/master/zipfiles/proj2.zip) released. It is due Sunday, April 29th at 11:59PM.
