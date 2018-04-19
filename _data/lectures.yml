@@ -847,6 +847,24 @@
       [Project 2 Released: Spam vs. Ham Classification](https://github.com/DS-100/sp18/raw/master/zipfiles/proj2.zip)
 
 
+- date: 4/19/2018
+  topic: Big Data
+  lecturer: Vikram Sreekanti (Guest Lecturer - EECS PhD student)
+  description: |
+    Data management at the level of big organizations can be confusing and often relies on many different technologies.
+    In this lecture we will provide an overview of organizational data management and introduce some of the key technologies
+    used to store and compute on data at scale. Time permitting we will dive into some basic Spark programming.
+  links:
+  - name: Slides (PPTX)
+    url: assets/lectures/lec26/25-map-reduce-big-data_vs.pptx
+  - name: Slides (PDF)
+    url: assets/lectures/lec26/25-map-reduce-big-data_vs.pdf
+  - name: Spark Notebook (HTML)
+    url: assets/lectures/lec26/Spark.html
+  - name: Spark Notebook (ipynb)
+    url: assets/lectures/lec26/Spark.ipynb
+
+
 # - date: 11/21/2017
 #   topic: Logistic Regression and Gradient Descent
 #   lecturer: Gonzalez
