@@ -863,6 +863,12 @@
     url: assets/lectures/lec26/Spark.html
   - name: Spark Notebook (ipynb)
     url: assets/lectures/lec26/Spark.ipynb
+  - name: screencast
+    url: https://www.youtube.com/watch?v=v8yTKz8Mv9c 
+  - name: Piazza Thread
+    url: https://piazza.com/class/jc04z4cze297dy?cid=1118
+  assignment: |
+      [Vitamin 10 Released](https://goo.gl/forms/5QKl6XuLSjVbO0N03)
 
 
 # - date: 11/21/2017
