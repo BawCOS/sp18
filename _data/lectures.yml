@@ -879,8 +879,13 @@
 
     Our guest speaker [Joshua Kroll](https://www.jkroll.com) is a computer scientist and researcher interested in the governance of automated decision-making systems, especially those built with machine learning. He is currently Postdoctoral Research Scholar at UC Berkeley's School of Information, working with Deirdre Mulligan.  Before that he received a PhD in Computer Science in the Security Group at Princeton University. His dissertation on Accountable Algorithms was advised by Edward W. Felten and supported by the Center for Information Technology Policy where he studied topics in security, privacy, and how technology informs policy decisions.  Joshua was the program chair of this year's edition of the successful workshop series ["Fairness, Accountability, and Transparency in Machine Learning (FAT/ML)"](https://www.fatml.org).
   links:
-  - name: Slides (PPTX)
+  - name: PPTX
     url: assets/lectures/lec27/27-ethics-in-data-science.pptx
+  - name: PDF
+    url: assets/lectures/lec27/27-ethics-in-data-science.pdf
+  - name: Handout
+    url: assets/lectures/lec27/27-ethics-in-data-science-handout.pdf
+
 
 # - date: 11/21/2017
 #   topic: Logistic Regression and Gradient Descent
