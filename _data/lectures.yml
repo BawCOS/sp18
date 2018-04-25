@@ -631,6 +631,8 @@
       url: https://www.youtube.com/watch?v=M5nkMZEc_o0
     - name: Piazza Thread
       url: https://piazza.com/class/jc04z4cze297dy?cid=806
+    - name: (optional reading) Statistical Justifications of Bias decomposition - Ch. 12
+      url: https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf
   assignment: |
     [Homework 5 Released: Modeling and Gradient Descent](https://github.com/DS-100/sp18/raw/master/zipfiles/hw5.zip)
 
@@ -662,6 +664,10 @@
     url: https://www.youtube.com/watch?v=jgPumzGP1pM
   - name: Piazza Thread
     url: https://piazza.com/class/jc04z4cze297dy?cid=859
+  - name: (optional reading) Least Squares and Logistic Regression - Ch 10, 11
+    url: https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf
+  - name: (optional reading) Understanding Feature engineering
+    url: https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b
   assignment : |
     [Lab 9 Released: Bootstrap](https://github.com/DS-100/sp18/raw/master/zipfiles/lab09.zip)
 
@@ -698,6 +704,8 @@
     url: https://www.youtube.com/watch?v=6AdMDzCRoN0
   - name: Piazza Thread
     url: https://piazza.com/class/jc04z4cze297dy?cid=900
+  - name: (optional reading) Regularization in Machine Learning
+    url: https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a
   assignment: |
     [Vitamin 7 Released](https://goo.gl/forms/humDcNLASsP3aNbB2)
 
@@ -733,6 +741,8 @@
     url: https://www.youtube.com/watch?v=d4OAb_Wd1wg
   - name: Piazza Thread
     url: https://piazza.com/class/jc04z4cze297dy?cid=945
+  - name: (optional reading) Least Squares and Logistic Regression - Ch 10, 11
+    url: https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf
   assignment: |
     [Lab 10 Released: Feature Engineering and Cross-Validation](https://github.com/DS-100/sp18/raw/master/zipfiles/lab10.zip)
 
@@ -768,6 +778,8 @@
     url: https://www.youtube.com/watch?v=3ovhGLswLNk
   - name: Piazza Thread
     url: https://piazza.com/class/jc04z4cze297dy?cid=972
+  - name: (optional reading) Least Squares and Logistic Regression - Ch 10, 11
+    url: https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf
   assignment : |
     [Vitamin 8 Released](https://goo.gl/forms/PTeLxrOXYnWXy6IB2)
 
