@@ -633,6 +633,8 @@
       url: https://piazza.com/class/jc04z4cze297dy?cid=806
     - name: (optional reading) Statistical Justifications of Bias decomposition - Ch. 12
       url: https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf
+    - name: (optional reading) Bias Variance Tradeoff and MSE
+      url: https://towardsdatascience.com/mse-and-bias-variance-decomposition-77449dd2ff55
   assignment: |
     [Homework 5 Released: Modeling and Gradient Descent](https://github.com/DS-100/sp18/raw/master/zipfiles/hw5.zip)
 
