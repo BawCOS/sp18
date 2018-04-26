@@ -901,6 +901,15 @@
     url: assets/lectures/lec27/27-ethics-in-data-science-handout.pdf
 
 
+- date: 4/27/2018
+  topic: Randomized experiments, A/B tests and sequential monitoring
+  lecturer: Guest Speaker Steve Howard.
+  description: |
+    It is now commonplace for organizations with websites or mobile apps to run randomized controlled experiments, or “A/B tests” as they’re often called in industry. Such experiments provide a reliable way to determine which product changes lead to the most successful user interactions. In this lecture we will discuss why randomized experiments are so important, talk about some of the key design choices that go into A/B tests, and get a brief introduction to sequential monitoring of experimental results.
+  links:
+  - name: PDF slides
+    url: assets/lectures/lec28/28-randomized-experiments-ab-testing.pdf
+
 # - date: 11/21/2017
 #   topic: Logistic Regression and Gradient Descent
 #   lecturer: Gonzalez
