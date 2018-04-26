@@ -899,6 +899,8 @@
     url: assets/lectures/lec27/27-ethics-in-data-science.pdf
   - name: Handout
     url: assets/lectures/lec27/27-ethics-in-data-science-handout.pdf
+  - name: screencast
+    url: https://www.youtube.com/watch?v=bCEqxfmKcys
 
 
 - date: 4/26/2018
