@@ -911,6 +911,10 @@
   links:
   - name: PDF slides
     url: assets/lectures/lec28/28-randomized-experiments-ab-testing.pdf
+  - name: Demo (HTML)
+    url: assets/lectures/lec28/sequential-experiments-demo.html
+  - name: Demo (ipynb) 
+    url: assets/lectures/lec28/code.zip
 
 # - date: 11/21/2017
 #   topic: Logistic Regression and Gradient Descent
