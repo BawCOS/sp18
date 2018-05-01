@@ -916,6 +916,23 @@
   - name: Demo (ipynb) 
     url: assets/lectures/lec28/code.zip
 
+
+
+
+- date: 5/01/2018
+  topic: Exam Review Part 1
+  lecturer: Gonzalez
+  description: |
+    In this exam review we will cover material up to the midterm.  This will be largely based on the midterm exam review but we will try to reference more recent concepts.
+  links:
+  - name: PPTX
+    url: assets/lectures/lec29/29-final-review-part1.pptx
+  - name: PDF
+    url: assets/lectures/lec29/29-final-review-part1.pdf
+  - name: Handout
+    url: assets/lectures/lec29/29-final-review-part1-handout.pdf
+  
+
 # - date: 11/21/2017
 #   topic: Logistic Regression and Gradient Descent
 #   lecturer: Gonzalez
