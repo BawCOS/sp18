@@ -932,6 +932,14 @@
   - name: Handout
     url: assets/lectures/lec29/29-final-review-part1-handout.pdf
   
+- date: 5/03/2018
+  topic: Exam Review Part 2
+  lecturer: Perez
+  description: |
+    In this exam review we will cover material after the midterm.
+  links:
+  - name: PPTX
+    url: assets/lectures/lec30/30-final-review_p2.pptx
 
 # - date: 11/21/2017
 #   topic: Logistic Regression and Gradient Descent
